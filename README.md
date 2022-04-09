@@ -1,1 +1,1 @@
-# movea_glo
+# movea_glo - учебный проект от GlO-academy
